@@ -30,4 +30,4 @@ Spatial intensity profile follows a Gaussian distribution
 
 Note: This represents a first-order approximation that intentionally simplifies certain physical aspects of photon absorption dynamics for modeling purposes. The model can be extended to incorporate more complex scenarios as needed.
 
-Modified version of excel sheet of by Marie L. Grünbein, Max-Planck-Institute for Medical Research
+Modified version of excel sheet of Marie L. Grünbein, Max-Planck-Institute for Medical Research
